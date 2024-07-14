@@ -9,7 +9,7 @@ class Gomo
 		public :
 			Gomo(int INA1, int INA2,int PWMA, int INB1,int INB2, int PWMB, int STBY);
 			void begin();
-			void Depan();
+			void Depan3();
 			void Belakang();
 			void Kiri();
 			void Kanan();
